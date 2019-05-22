@@ -1,0 +1,12 @@
+$a = 10;
+$b = 2;
+$c = $a+$b;
+$d = $a-$b;
+$e = $a*$b;
+$f = $a/$b;
+$g=$a++;
+echo "a + b = $c";
+echo "a - b = $d";
+echo "a * b = $e";
+echo "a / b = $f";
+echo "a + 1 = $g"
